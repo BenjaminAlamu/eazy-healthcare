@@ -1,7 +1,7 @@
 <template>
   <div class="font-sans antialiased" id="app">
     <nav class="flex items-center fixed w-full justify-between flex-wrap bg-gray-900 z-10 p-6">
-      <div class="flex items-center flex-no-shrink text-white mr-6">
+      <div class="flex items-center flex-no-shrink text-3xl text-white mr-6">
         <router-link to="/">
         Eazy HealthCare
         </router-link>
@@ -42,10 +42,6 @@
           <button
             class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded"
           >Get Started</button>
-          <!-- <button
-            to="contact"
-            class="block mt-4 lg:inline-block uppercase font-semibold btn btn-blue text-lg md:px-4 md:py-2 lg:mt-0 mr-4"
-          ></button>-->
         </div>
       </div>
     </nav>
