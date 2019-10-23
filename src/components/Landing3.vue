@@ -5,6 +5,8 @@
         <div class="md:mx-16">
           <p class="main-title text-left text-white uppercase font-bold m-2">Have your  medical prescription delivered to your location</p>
           <p class="sub-title text-left mx-2 my-4">Your doctor generates the prescription and the drugs are delivered to your location</p>
+                    <p class="main-title text-left text-white uppercase font-bold m-2">Have your  medical prescription delivered to your location</p>
+          <p class="sub-title text-left mx-2 my-4">Your doctor generates the prescription and the drugs are delivered to your location</p>
         </div>
       </div>
     </div>
