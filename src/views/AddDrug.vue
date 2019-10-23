@@ -78,7 +78,7 @@ export default {
         const that = this;
       setTimeout(function() {
           that.loading = false
-        that.$swal("Success!", "New Drug added!", "success");
+        that.$swal("Success!", "New Drug added successfully!", "success");
       }, 1000);
     }
   }
