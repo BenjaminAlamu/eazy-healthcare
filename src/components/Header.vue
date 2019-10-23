@@ -62,9 +62,7 @@ export default {
   },
   methods: {
     toggle() {
-      console.log(this.open);
       this.open = !this.open;
-      console.log(this.open);
     }
   }
 };
